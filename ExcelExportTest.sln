@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Util", "Util\Util.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportUsingClosedXML", "ExportUsingOpenXML\ExportUsingClosedXML.csproj", "{47C67078-BB83-4CBA-BE54-CF569A520454}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPOITest", "NPOITest\NPOITest.csproj", "{07D58B7D-1CBC-4388-886F-C4FF3FE928F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{47C67078-BB83-4CBA-BE54-CF569A520454}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47C67078-BB83-4CBA-BE54-CF569A520454}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47C67078-BB83-4CBA-BE54-CF569A520454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07D58B7D-1CBC-4388-886F-C4FF3FE928F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D58B7D-1CBC-4388-886F-C4FF3FE928F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D58B7D-1CBC-4388-886F-C4FF3FE928F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D58B7D-1CBC-4388-886F-C4FF3FE928F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
